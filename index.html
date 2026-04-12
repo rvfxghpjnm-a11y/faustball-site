@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>TSV LoLa Faustball</title>
+  <meta name="description" content="Faustball-App für TSV LoLa mit automatisch aktualisierten Daten.">
+  <meta name="theme-color" content="#1a7a4a">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="TSV LoLa">
+  <link rel="manifest" href="./manifest.json">
+  <link rel="apple-touch-icon" href="./icons/icon-192.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="./icons/icon-192.png">
+  <link rel="stylesheet" href="./assets/style.css">
+</head>
+<body>
+  <div class="shell">
+    <header class="hero card">
+      <div>
+        <p class="eyebrow">Faustball</p>
+        <h1>TSV LoLa</h1>
+        <p id="status-text" class="muted">Lade Daten ...</p>
+      </div>
+      <div class="hero-actions">
+        <button id="reload-btn" class="button">Neu laden</button>
+      </div>
+    </header>
+
+    <section id="notice-box" class="card hidden"></section>
+
+    <section class="grid stats" id="stats"></section>
+
+    <section class="card">
+      <div class="section-head">
+        <h2>Nächste Termine</h2>
+        <p class="muted" id="next-count"></p>
+      </div>
+      <div id="upcoming"></div>
+    </section>
+
+    <section class="card">
+      <div class="section-head">
+        <h2>Teams</h2>
+        <div id="filters" class="chips"></div>
+      </div>
+      <div id="teams" class="teams"></div>
+    </section>
+  </div>
+  <script src="./assets/app.js" defer></script>
+</body>
+</html>

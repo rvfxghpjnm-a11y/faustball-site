@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+logs/*.log
+data/debug/
+
+.venv/
+_shellfish_uploading_*
+logs/
+__pycache__/
+*.pyc

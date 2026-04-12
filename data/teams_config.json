@@ -1,0 +1,213 @@
+[
+  {
+    "id": "bl-maenner",
+    "ageGroup": "Bundesliga",
+    "label": "1. Bundesliga Nord",
+    "clubName": "TSV LoLa",
+    "clubNameFeld": "VfL Kellinghusen",
+    "gender": "Männer",
+    "league": "1. Bundesliga Nord",
+    "seasonType": "halle",
+    "faustballUrl": "https://www.faustball.com/#/contest/7622",
+    "achievements": [
+      "3. Platz Hauptrunde",
+      "5. Platz Deutsche Meisterschaft"
+    ],
+    "squad": [
+      {
+        "name": "Sascha Heidrich",
+        "number": "1",
+        "position": "Angriff"
+      },
+      {
+        "name": "Hannes Himmelhan",
+        "number": "2",
+        "position": "Zuspiel"
+      },
+      {
+        "name": "Rouven Kadgien",
+        "number": "3",
+        "position": "Angriff"
+      },
+      {
+        "name": "Jannis Wethling",
+        "number": "5",
+        "position": "Angriff"
+      },
+      {
+        "name": "Marten Kabbe",
+        "number": "7",
+        "position": "Abwehr"
+      },
+      {
+        "name": "Malte Schultz",
+        "number": "8",
+        "position": "Abwehr"
+      },
+      {
+        "name": "Hannes Brockmann",
+        "number": "13",
+        "position": "Abwehr"
+      },
+      {
+        "name": "Luis Mölck",
+        "number": "14",
+        "position": "Abwehr"
+      },
+      {
+        "name": "Max Alexander",
+        "number": "15",
+        "position": "Abwehr"
+      },
+      {
+        "name": "Erik Maas",
+        "number": "28",
+        "position": "Abwehr"
+      },
+      {
+        "name": "Marcus Himmelhan",
+        "isTrainer": true
+      }
+    ]
+  },
+  {
+    "id": "u18-m",
+    "ageGroup": "U18",
+    "label": "U18 männlich",
+    "clubName": "VfL Kellinghusen",
+    "gender": "männlich",
+    "league": "Landesmeisterschaft SH",
+    "seasonType": "halle",
+    "faustballUrl": "https://www.faustball.com/#/club/381/teams"
+  },
+  {
+    "id": "u18-w",
+    "ageGroup": "U18",
+    "label": "U18 weiblich",
+    "clubName": "VfL Kellinghusen",
+    "gender": "weiblich",
+    "league": "Norddeutsche Meisterschaft Nord",
+    "seasonType": "halle",
+    "faustballUrl": "https://www.faustball.com/#/club/381/teams"
+  },
+  {
+    "id": "u16-m",
+    "ageGroup": "U16",
+    "label": "U16 männlich",
+    "clubName": "TSV LoLa",
+    "gender": "männlich",
+    "league": "Gruppe A Deutschland",
+    "seasonType": "halle",
+    "faustballUrl": "https://www.faustball.com/#/contest/8895",
+    "achievements": [
+      "1. Platz Gruppe K",
+      "3. Platz Norddeutsche",
+      "DM-Teilnahme"
+    ]
+  },
+  {
+    "id": "u16-w",
+    "ageGroup": "U16",
+    "label": "U16 weiblich",
+    "clubName": "VfL Kellinghusen",
+    "gender": "weiblich",
+    "league": "Norddeutsche Meisterschaft Nord / DM",
+    "seasonType": "halle",
+    "faustballUrl": "https://www.faustball.com/#/club/381/teams"
+  },
+  {
+    "id": "u14-m",
+    "ageGroup": "U14",
+    "label": "U14 männlich",
+    "clubName": "TSV LoLa",
+    "gender": "männlich",
+    "league": "Landesmeisterschaft SH",
+    "seasonType": "halle",
+    "faustballUrl": "https://www.faustball.com/#/contest/8424",
+    "achievements": [
+      "1. Platz Landesmeisterschaft SH",
+      "3. Platz Norddeutsche",
+      "10. Platz DM"
+    ]
+  },
+  {
+    "id": "u14-w",
+    "ageGroup": "U14",
+    "label": "U14 weiblich",
+    "clubName": "VfL Kellinghusen",
+    "gender": "weiblich",
+    "league": "Norddeutsche Meisterschaft Nord / DM",
+    "seasonType": "halle",
+    "faustballUrl": "https://www.faustball.com/#/club/381/teams"
+  },
+  {
+    "id": "u12-m",
+    "ageGroup": "U12",
+    "label": "U12 männlich",
+    "clubName": "TSV LoLa",
+    "gender": "männlich",
+    "league": "Landesmeisterschaft SH",
+    "seasonType": "halle",
+    "faustballUrl": "https://www.faustball.com/#/contest/8426",
+    "achievements": [
+      "2. Platz Landesmeisterschaft SH",
+      "DM-Teilnahme"
+    ]
+  },
+  {
+    "id": "u12-w",
+    "ageGroup": "U12",
+    "label": "U12 weiblich",
+    "clubName": "VfL Kellinghusen",
+    "gender": "weiblich",
+    "league": "Landesmeisterschaft SH",
+    "seasonType": "halle",
+    "faustballUrl": "https://www.faustball.com/#/club/381/teams"
+  },
+  {
+    "id": "u10-lola",
+    "ageGroup": "U10",
+    "label": "U10 mixed (TSV LoLa)",
+    "clubName": "TSV LoLa",
+    "gender": "mixed",
+    "league": "Landesmeisterschaft SH",
+    "seasonType": "halle",
+    "faustballUrl": "https://www.faustball.com/#/contest/8428"
+  },
+  {
+    "id": "u10-lola2",
+    "ageGroup": "U10",
+    "label": "U10 mixed (TSV LoLa 2)",
+    "clubName": "TSV LoLa",
+    "gender": "mixed",
+    "league": "Landesmeisterschaft SH",
+    "seasonType": "halle",
+    "faustballUrl": "https://www.faustball.com/#/contest/8428",
+    "achievements": [
+      "2. Platz Landesmeisterschaft SH"
+    ]
+  },
+  {
+    "id": "u10-kh",
+    "ageGroup": "U10",
+    "label": "U10 mixed (VfL Kellinghusen)",
+    "clubName": "VfL Kellinghusen",
+    "gender": "mixed",
+    "league": "Landesmeisterschaft SH",
+    "seasonType": "halle",
+    "faustballUrl": "https://www.faustball.com/#/club/381/teams"
+  },
+  {
+    "id": "u8-lola",
+    "ageGroup": "U8",
+    "label": "U8 mixed",
+    "clubName": "TSV LoLa",
+    "gender": "mixed",
+    "league": "Landesmeisterschaft SH",
+    "seasonType": "halle",
+    "faustballUrl": "https://www.faustball.com/#/contest/8429",
+    "achievements": [
+      "1. Platz Landesmeisterschaft SH (ungeschlagen)"
+    ]
+  }
+]

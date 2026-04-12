@@ -1,0 +1,3309 @@
+{
+  "app": {
+    "title": "TSV LoLa Faustball",
+    "description": "Mobile Faustball-App mit automatischem JSON-Update",
+    "themeColor": "#1a7a4a"
+  },
+  "generated_at": "2026-04-12T21:47:25.251014+02:00",
+  "generated_by": "scripts/update_faustball_data.py",
+  "source_status": {
+    "mode": "live_with_fallback",
+    "live_ok": true,
+    "message": "7 von 13 Team-Bereichen konnten live oder halb-live aktualisiert werden. Nicht erkannte Bereiche bleiben auf dem letzten Stand stehen."
+  },
+  "teams": [
+    {
+      "id": "bl-maenner",
+      "ageGroup": "Bundesliga",
+      "label": "1. Bundesliga Nord",
+      "clubName": "TSV LoLa",
+      "clubNameFeld": "VfL Kellinghusen",
+      "gender": "Männer",
+      "league": "1. Bundesliga Nord",
+      "seasonType": "halle",
+      "faustballUrl": "https://www.faustball.com/#/contest/7622",
+      "achievements": [
+        "3. Platz Hauptrunde",
+        "5. Platz Deutsche Meisterschaft"
+      ],
+      "squad": [
+        {
+          "name": "Sascha Heidrich",
+          "number": "1",
+          "position": "Angriff"
+        },
+        {
+          "name": "Hannes Himmelhan",
+          "number": "2",
+          "position": "Zuspiel"
+        },
+        {
+          "name": "Rouven Kadgien",
+          "number": "3",
+          "position": "Angriff"
+        },
+        {
+          "name": "Jannis Wethling",
+          "number": "5",
+          "position": "Angriff"
+        },
+        {
+          "name": "Marten Kabbe",
+          "number": "7",
+          "position": "Abwehr"
+        },
+        {
+          "name": "Malte Schultz",
+          "number": "8",
+          "position": "Abwehr"
+        },
+        {
+          "name": "Hannes Brockmann",
+          "number": "13",
+          "position": "Abwehr"
+        },
+        {
+          "name": "Luis Mölck",
+          "number": "14",
+          "position": "Abwehr"
+        },
+        {
+          "name": "Max Alexander",
+          "number": "15",
+          "position": "Abwehr"
+        },
+        {
+          "name": "Erik Maas",
+          "number": "28",
+          "position": "Abwehr"
+        },
+        {
+          "name": "Marcus Himmelhan",
+          "isTrainer": true
+        }
+      ]
+    },
+    {
+      "id": "u18-m",
+      "ageGroup": "U18",
+      "label": "U18 männlich",
+      "clubName": "VfL Kellinghusen",
+      "gender": "männlich",
+      "league": "Landesmeisterschaft SH",
+      "seasonType": "halle",
+      "faustballUrl": "https://www.faustball.com/#/club/381/teams"
+    },
+    {
+      "id": "u18-w",
+      "ageGroup": "U18",
+      "label": "U18 weiblich",
+      "clubName": "VfL Kellinghusen",
+      "gender": "weiblich",
+      "league": "Norddeutsche Meisterschaft Nord",
+      "seasonType": "halle",
+      "faustballUrl": "https://www.faustball.com/#/club/381/teams"
+    },
+    {
+      "id": "u16-m",
+      "ageGroup": "U16",
+      "label": "U16 männlich",
+      "clubName": "TSV LoLa",
+      "gender": "männlich",
+      "league": "Gruppe A Deutschland",
+      "seasonType": "halle",
+      "faustballUrl": "https://www.faustball.com/#/contest/8895",
+      "achievements": [
+        "1. Platz Gruppe K",
+        "3. Platz Norddeutsche",
+        "DM-Teilnahme"
+      ]
+    },
+    {
+      "id": "u16-w",
+      "ageGroup": "U16",
+      "label": "U16 weiblich",
+      "clubName": "VfL Kellinghusen",
+      "gender": "weiblich",
+      "league": "Norddeutsche Meisterschaft Nord / DM",
+      "seasonType": "halle",
+      "faustballUrl": "https://www.faustball.com/#/club/381/teams"
+    },
+    {
+      "id": "u14-m",
+      "ageGroup": "U14",
+      "label": "U14 männlich",
+      "clubName": "TSV LoLa",
+      "gender": "männlich",
+      "league": "Landesmeisterschaft SH",
+      "seasonType": "halle",
+      "faustballUrl": "https://www.faustball.com/#/contest/8424",
+      "achievements": [
+        "1. Platz Landesmeisterschaft SH",
+        "3. Platz Norddeutsche",
+        "10. Platz DM"
+      ]
+    },
+    {
+      "id": "u14-w",
+      "ageGroup": "U14",
+      "label": "U14 weiblich",
+      "clubName": "VfL Kellinghusen",
+      "gender": "weiblich",
+      "league": "Norddeutsche Meisterschaft Nord / DM",
+      "seasonType": "halle",
+      "faustballUrl": "https://www.faustball.com/#/club/381/teams"
+    },
+    {
+      "id": "u12-m",
+      "ageGroup": "U12",
+      "label": "U12 männlich",
+      "clubName": "TSV LoLa",
+      "gender": "männlich",
+      "league": "Landesmeisterschaft SH",
+      "seasonType": "halle",
+      "faustballUrl": "https://www.faustball.com/#/contest/8426",
+      "achievements": [
+        "2. Platz Landesmeisterschaft SH",
+        "DM-Teilnahme"
+      ]
+    },
+    {
+      "id": "u12-w",
+      "ageGroup": "U12",
+      "label": "U12 weiblich",
+      "clubName": "VfL Kellinghusen",
+      "gender": "weiblich",
+      "league": "Landesmeisterschaft SH",
+      "seasonType": "halle",
+      "faustballUrl": "https://www.faustball.com/#/club/381/teams"
+    },
+    {
+      "id": "u10-lola",
+      "ageGroup": "U10",
+      "label": "U10 mixed (TSV LoLa)",
+      "clubName": "TSV LoLa",
+      "gender": "mixed",
+      "league": "Landesmeisterschaft SH",
+      "seasonType": "halle",
+      "faustballUrl": "https://www.faustball.com/#/contest/8428"
+    },
+    {
+      "id": "u10-lola2",
+      "ageGroup": "U10",
+      "label": "U10 mixed (TSV LoLa 2)",
+      "clubName": "TSV LoLa",
+      "gender": "mixed",
+      "league": "Landesmeisterschaft SH",
+      "seasonType": "halle",
+      "faustballUrl": "https://www.faustball.com/#/contest/8428",
+      "achievements": [
+        "2. Platz Landesmeisterschaft SH"
+      ]
+    },
+    {
+      "id": "u10-kh",
+      "ageGroup": "U10",
+      "label": "U10 mixed (VfL Kellinghusen)",
+      "clubName": "VfL Kellinghusen",
+      "gender": "mixed",
+      "league": "Landesmeisterschaft SH",
+      "seasonType": "halle",
+      "faustballUrl": "https://www.faustball.com/#/club/381/teams"
+    },
+    {
+      "id": "u8-lola",
+      "ageGroup": "U8",
+      "label": "U8 mixed",
+      "clubName": "TSV LoLa",
+      "gender": "mixed",
+      "league": "Landesmeisterschaft SH",
+      "seasonType": "halle",
+      "faustballUrl": "https://www.faustball.com/#/contest/8429",
+      "achievements": [
+        "1. Platz Landesmeisterschaft SH (ungeschlagen)"
+      ]
+    }
+  ],
+  "standings": {
+    "bl-maenner": [
+      {
+        "position": null,
+        "teamName": "Mannschaft",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": null,
+        "pointsLost": null,
+        "isOurTeam": false
+      },
+      {
+        "position": 1123456789,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 483,
+        "pointsLost": 301,
+        "isOurTeam": false
+      },
+      {
+        "position": 2123456789,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 517,
+        "pointsLost": 414,
+        "isOurTeam": false
+      },
+      {
+        "position": 3123456789,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 482,
+        "pointsLost": 407,
+        "isOurTeam": false
+      },
+      {
+        "position": 4123456789,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 478,
+        "pointsLost": 459,
+        "isOurTeam": false
+      },
+      {
+        "position": 5123456789,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 492,
+        "pointsLost": 520,
+        "isOurTeam": false
+      },
+      {
+        "position": 6123456789,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 425,
+        "pointsLost": 471,
+        "isOurTeam": false
+      },
+      {
+        "position": 7123456789,
+        "teamName": "",
+        "played": 1901,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 476,
+        "pointsLost": 542,
+        "isOurTeam": false
+      },
+      {
+        "position": 8123456789,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 427,
+        "pointsLost": 541,
+        "isOurTeam": false
+      },
+      {
+        "position": 9123456789,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 423,
+        "pointsLost": 548,
+        "isOurTeam": false
+      },
+      {
+        "position": 112,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 154,
+        "pointsLost": 154,
+        "isOurTeam": false
+      },
+      {
+        "position": 212,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 154,
+        "pointsLost": 154,
+        "isOurTeam": false
+      }
+    ],
+    "u16-m": [
+      {
+        "position": null,
+        "teamName": "Mannschaft",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": null,
+        "pointsLost": null,
+        "isOurTeam": false
+      },
+      {
+        "position": 11234,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 128,
+        "pointsLost": 72,
+        "isOurTeam": false
+      },
+      {
+        "position": 21234,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 123,
+        "pointsLost": 87,
+        "isOurTeam": false
+      },
+      {
+        "position": 31234,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 82,
+        "pointsLost": 114,
+        "isOurTeam": false
+      },
+      {
+        "position": 41234,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 72,
+        "pointsLost": 132,
+        "isOurTeam": false
+      }
+    ],
+    "u14-m": [
+      {
+        "position": null,
+        "teamName": "Mannschaft",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": null,
+        "pointsLost": null,
+        "isOurTeam": false
+      },
+      {
+        "position": 11234,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 141,
+        "pointsLost": 70,
+        "isOurTeam": false
+      },
+      {
+        "position": 21234,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 116,
+        "pointsLost": 88,
+        "isOurTeam": false
+      },
+      {
+        "position": 31234,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 96,
+        "pointsLost": 141,
+        "isOurTeam": false
+      },
+      {
+        "position": 41234,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 84,
+        "pointsLost": 138,
+        "isOurTeam": false
+      }
+    ],
+    "u12-m": [
+      {
+        "position": null,
+        "teamName": "Mannschaft",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": null,
+        "pointsLost": null,
+        "isOurTeam": false
+      },
+      {
+        "position": 1123456789,
+        "teamName": "",
+        "played": null,
+        "setsWon": 6,
+        "setsLost": 8,
+        "pointsWon": 136,
+        "pointsLost": 48,
+        "isOurTeam": false
+      },
+      {
+        "position": 2123456789,
+        "teamName": "",
+        "played": null,
+        "setsWon": 6,
+        "setsLost": 8,
+        "pointsWon": 119,
+        "pointsLost": 58,
+        "isOurTeam": false
+      },
+      {
+        "position": 3123456789,
+        "teamName": "",
+        "played": null,
+        "setsWon": 6,
+        "setsLost": 8,
+        "pointsWon": 101,
+        "pointsLost": 80,
+        "isOurTeam": false
+      },
+      {
+        "position": 4123456789,
+        "teamName": "",
+        "played": 2,
+        "setsWon": 6,
+        "setsLost": 8,
+        "pointsWon": 125,
+        "pointsLost": 139,
+        "isOurTeam": false
+      },
+      {
+        "position": 5123456789,
+        "teamName": "",
+        "played": null,
+        "setsWon": 6,
+        "setsLost": 8,
+        "pointsWon": 96,
+        "pointsLost": 125,
+        "isOurTeam": false
+      },
+      {
+        "position": 6123456789,
+        "teamName": "",
+        "played": null,
+        "setsWon": 6,
+        "setsLost": 8,
+        "pointsWon": 57,
+        "pointsLost": 124,
+        "isOurTeam": false
+      },
+      {
+        "position": 7123456789,
+        "teamName": "",
+        "played": null,
+        "setsWon": 6,
+        "setsLost": 8,
+        "pointsWon": 86,
+        "pointsLost": 146,
+        "isOurTeam": false
+      },
+      {
+        "position": 8123456789,
+        "teamName": "",
+        "played": null,
+        "setsWon": 0,
+        "setsLost": 8,
+        "pointsWon": 0,
+        "pointsLost": 0,
+        "isOurTeam": false
+      },
+      {
+        "position": 9123456789,
+        "teamName": "",
+        "played": 12,
+        "setsWon": 0,
+        "setsLost": 8,
+        "pointsWon": 0,
+        "pointsLost": 0,
+        "isOurTeam": false
+      }
+    ],
+    "u10-lola": [
+      {
+        "position": null,
+        "teamName": "Mannschaft",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": null,
+        "pointsLost": null,
+        "isOurTeam": false
+      },
+      {
+        "position": 1123456,
+        "teamName": "",
+        "played": 2,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 317,
+        "pointsLost": 226,
+        "isOurTeam": false
+      },
+      {
+        "position": 2123456,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 309,
+        "pointsLost": 250,
+        "isOurTeam": false
+      },
+      {
+        "position": 3123456,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 298,
+        "pointsLost": 260,
+        "isOurTeam": false
+      },
+      {
+        "position": 4123456,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 284,
+        "pointsLost": 271,
+        "isOurTeam": false
+      },
+      {
+        "position": 5123456,
+        "teamName": "",
+        "played": 2,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 267,
+        "pointsLost": 321,
+        "isOurTeam": false
+      },
+      {
+        "position": 6123456,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 184,
+        "pointsLost": 331,
+        "isOurTeam": false
+      },
+      {
+        "position": 1123,
+        "teamName": "",
+        "played": 2,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 69,
+        "pointsLost": 46,
+        "isOurTeam": false
+      },
+      {
+        "position": 2123,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 54,
+        "pointsLost": 52,
+        "isOurTeam": false
+      },
+      {
+        "position": 3123,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 44,
+        "pointsLost": 69,
+        "isOurTeam": false
+      }
+    ],
+    "u10-lola2": [
+      {
+        "position": null,
+        "teamName": "Mannschaft",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": null,
+        "pointsLost": null,
+        "isOurTeam": false
+      },
+      {
+        "position": 1123456,
+        "teamName": "",
+        "played": 2,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 317,
+        "pointsLost": 226,
+        "isOurTeam": false
+      },
+      {
+        "position": 2123456,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 309,
+        "pointsLost": 250,
+        "isOurTeam": false
+      },
+      {
+        "position": 3123456,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 298,
+        "pointsLost": 260,
+        "isOurTeam": false
+      },
+      {
+        "position": 4123456,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 284,
+        "pointsLost": 271,
+        "isOurTeam": false
+      },
+      {
+        "position": 5123456,
+        "teamName": "",
+        "played": 2,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 267,
+        "pointsLost": 321,
+        "isOurTeam": false
+      },
+      {
+        "position": 6123456,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 184,
+        "pointsLost": 331,
+        "isOurTeam": false
+      },
+      {
+        "position": 1123,
+        "teamName": "",
+        "played": 2,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 69,
+        "pointsLost": 46,
+        "isOurTeam": false
+      },
+      {
+        "position": 2123,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 54,
+        "pointsLost": 52,
+        "isOurTeam": false
+      },
+      {
+        "position": 3123,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 44,
+        "pointsLost": 69,
+        "isOurTeam": false
+      }
+    ],
+    "u10-kh": [
+      {
+        "position": 6,
+        "teamName": "VfL Kellinghusen",
+        "played": 6,
+        "setsWon": 6,
+        "setsLost": 12,
+        "pointsWon": 4,
+        "pointsLost": 8,
+        "isOurTeam": false
+      }
+    ],
+    "u18-m": [
+      {
+        "position": 1,
+        "teamName": "VfL Kellinghusen",
+        "played": 4,
+        "setsWon": 12,
+        "setsLost": 2,
+        "pointsWon": 8,
+        "pointsLost": 0,
+        "isOurTeam": false
+      }
+    ],
+    "u18-w": [
+      {
+        "position": 5,
+        "teamName": "VfL Kellinghusen",
+        "played": 6,
+        "setsWon": 8,
+        "setsLost": 14,
+        "pointsWon": 4,
+        "pointsLost": 8,
+        "isOurTeam": false
+      }
+    ],
+    "u16-w": [
+      {
+        "position": 1,
+        "teamName": "VfL Kellinghusen",
+        "played": 5,
+        "setsWon": 15,
+        "setsLost": 1,
+        "pointsWon": 10,
+        "pointsLost": 0,
+        "isOurTeam": false
+      }
+    ],
+    "u14-w": [
+      {
+        "position": 3,
+        "teamName": "VfL Kellinghusen",
+        "played": 6,
+        "setsWon": 10,
+        "setsLost": 10,
+        "pointsWon": 6,
+        "pointsLost": 6,
+        "isOurTeam": false
+      }
+    ],
+    "u12-w": [
+      {
+        "position": 1,
+        "teamName": "VfL Kellinghusen",
+        "played": 4,
+        "setsWon": 12,
+        "setsLost": 1,
+        "pointsWon": 8,
+        "pointsLost": 0,
+        "isOurTeam": false
+      }
+    ],
+    "u8-lola": [
+      {
+        "position": null,
+        "teamName": "Mannschaft",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": null,
+        "pointsLost": null,
+        "isOurTeam": false
+      },
+      {
+        "position": 1123456,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 228,
+        "pointsLost": 96,
+        "isOurTeam": false
+      },
+      {
+        "position": 2123456,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 192,
+        "pointsLost": 145,
+        "isOurTeam": false
+      },
+      {
+        "position": 3123456,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 178,
+        "pointsLost": 156,
+        "isOurTeam": false
+      },
+      {
+        "position": 4123456,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 168,
+        "pointsLost": 186,
+        "isOurTeam": false
+      },
+      {
+        "position": 5123456,
+        "teamName": "",
+        "played": 2,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 125,
+        "pointsLost": 232,
+        "isOurTeam": false
+      },
+      {
+        "position": 6123456,
+        "teamName": "",
+        "played": null,
+        "setsWon": null,
+        "setsLost": null,
+        "pointsWon": 132,
+        "pointsLost": 208,
+        "isOurTeam": false
+      }
+    ]
+  },
+  "matches": {
+    "bl-maenner": [
+      {
+        "date": "",
+        "home": "1",
+        "away": "Nord",
+        "scoreHome": 5,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "",
+        "away": ":",
+        "scoreHome": null,
+        "scoreAway": null,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1",
+        "away": "Nord",
+        "scoreHome": 5,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1",
+        "away": "Nord",
+        "scoreHome": 1,
+        "scoreAway": 5,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1",
+        "away": "Nord",
+        "scoreHome": 0,
+        "scoreAway": 5,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1",
+        "away": "Nord",
+        "scoreHome": 3,
+        "scoreAway": 5,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1",
+        "away": "Nord",
+        "scoreHome": 5,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1",
+        "away": "Nord",
+        "scoreHome": 2,
+        "scoreAway": 5,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1",
+        "away": "Nord",
+        "scoreHome": 4,
+        "scoreAway": 5,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1",
+        "away": "Nord",
+        "scoreHome": 5,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1",
+        "away": "Nord",
+        "scoreHome": 5,
+        "scoreAway": 4,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1",
+        "away": "Abstiegsduell 5-8",
+        "scoreHome": 5,
+        "scoreAway": 8,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1",
+        "away": "Abstiegsduell 6-7",
+        "scoreHome": 6,
+        "scoreAway": 7,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2",
+        "away": "Abstiegsduell 5-8",
+        "scoreHome": 5,
+        "scoreAway": 8,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2",
+        "away": "Abstiegsduell 6-7",
+        "scoreHome": 6,
+        "scoreAway": 7,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1",
+        "away": "Hoffnungsrunde",
+        "scoreHome": 0,
+        "scoreAway": 5,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      }
+    ],
+    "u16-m": [
+      {
+        "date": "",
+        "home": "1",
+        "away": "U16 Gruppe K",
+        "scoreHome": 2,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "",
+        "away": ":",
+        "scoreHome": null,
+        "scoreAway": null,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2",
+        "away": "U16 Gruppe K",
+        "scoreHome": 2,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3",
+        "away": "U16 Gruppe K",
+        "scoreHome": 2,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4",
+        "away": "U16 Gruppe K",
+        "scoreHome": 2,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5",
+        "away": "U16 Gruppe K",
+        "scoreHome": 0,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "6",
+        "away": "U16 Gruppe K",
+        "scoreHome": 2,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/1",
+        "away": "U16 Gruppe K",
+        "scoreHome": 0,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/1",
+        "away": "U16 Gruppe K",
+        "scoreHome": 0,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3/1",
+        "away": "U16 Gruppe K",
+        "scoreHome": 0,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/1",
+        "away": "U16 Gruppe K",
+        "scoreHome": 0,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/1",
+        "away": "U16 Gruppe K",
+        "scoreHome": 2,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "6/1",
+        "away": "U16 Gruppe K",
+        "scoreHome": 0,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      }
+    ],
+    "u14-m": [
+      {
+        "date": "",
+        "home": "1",
+        "away": "Landesmeisterschaft männl.U14",
+        "scoreHome": 0,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "",
+        "away": ":",
+        "scoreHome": null,
+        "scoreAway": null,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2",
+        "away": "Landesmeisterschaft männl.U14",
+        "scoreHome": 2,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3",
+        "away": "Landesmeisterschaft männl.U14",
+        "scoreHome": 2,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4",
+        "away": "Landesmeisterschaft männl.U14",
+        "scoreHome": 2,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5",
+        "away": "Landesmeisterschaft männl.U14",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "6",
+        "away": "Landesmeisterschaft männl.U14",
+        "scoreHome": 2,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3",
+        "away": "Landesmeisterschaft männl.U14",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4",
+        "away": "Landesmeisterschaft männl.U14",
+        "scoreHome": 0,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5",
+        "away": "Landesmeisterschaft männl.U14",
+        "scoreHome": 0,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      }
+    ],
+    "u18-m": [],
+    "u18-w": [],
+    "u16-w": [],
+    "u14-w": [],
+    "u12-m": [
+      {
+        "date": "",
+        "home": "1",
+        "away": "Landesmeisterschaft männl. U12",
+        "scoreHome": 2,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "",
+        "away": ":",
+        "scoreHome": null,
+        "scoreAway": null,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2",
+        "away": "Landesmeisterschaft männl. U12",
+        "scoreHome": 0,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3",
+        "away": "Landesmeisterschaft männl. U12",
+        "scoreHome": 2,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4",
+        "away": "Landesmeisterschaft männl. U12",
+        "scoreHome": 0,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5",
+        "away": "Landesmeisterschaft männl. U12",
+        "scoreHome": 2,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2",
+        "away": "Landesmeisterschaft männl. U12",
+        "scoreHome": 2,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3",
+        "away": "Landesmeisterschaft männl. U12",
+        "scoreHome": 0,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "6",
+        "away": "Landesmeisterschaft männl. U12",
+        "scoreHome": 0,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2",
+        "away": "Landesmeisterschaft männl. U12",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "6",
+        "away": "Landesmeisterschaft männl. U12",
+        "scoreHome": 2,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "7",
+        "away": "Landesmeisterschaft männl. U12",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1",
+        "away": "Landesmeisterschaft männl. U12",
+        "scoreHome": 0,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4",
+        "away": "Landesmeisterschaft männl. U12",
+        "scoreHome": 2,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3",
+        "away": "Landesmeisterschaft männl. U12",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5",
+        "away": "Landesmeisterschaft männl. U12",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "7",
+        "away": "Landesmeisterschaft männl. U12",
+        "scoreHome": 2,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "8",
+        "away": "Landesmeisterschaft männl. U12",
+        "scoreHome": 0,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "9",
+        "away": "Landesmeisterschaft männl. U12",
+        "scoreHome": 2,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "10",
+        "away": "Landesmeisterschaft männl. U12",
+        "scoreHome": 2,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "11",
+        "away": "Landesmeisterschaft männl. U12",
+        "scoreHome": 0,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "12",
+        "away": "Landesmeisterschaft männl. U12",
+        "scoreHome": 0,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      }
+    ],
+    "u12-w": [],
+    "u10-lola": [
+      {
+        "date": "",
+        "home": "1/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "",
+        "away": ":",
+        "scoreHome": null,
+        "scoreAway": null,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/2",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/2",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3/2",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/2",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/2",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/1",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/2",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/1",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/2",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3/1",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3/2",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/1",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/2",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/1",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/2",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/2",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/2",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3/2",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/2",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/1",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/2",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/2",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3/2",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/1",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/2",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/1",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/2",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/3",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/2",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/3",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3/3",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/3",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/2",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/3",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "6/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "6/2",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "7/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "7/2",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "7/3",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/1",
+        "away": "Zwischenrunde Gruppe AA",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/2",
+        "away": "Zwischenrunde Gruppe BB",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/3",
+        "away": "Zwischenrunde Gruppe CC",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/1",
+        "away": "Zwischenrunde Gruppe DD",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/2",
+        "away": "Zwischenrunde Gruppe AA",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/3",
+        "away": "Zwischenrunde Gruppe BB",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3/1",
+        "away": "Zwischenrunde Gruppe CC",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3/2",
+        "away": "Zwischenrunde Gruppe DD",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3/3",
+        "away": "Zwischenrunde Gruppe AA",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/1",
+        "away": "Zwischenrunde Gruppe BB",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/2",
+        "away": "Zwischenrunde Gruppe CC",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/3",
+        "away": "Zwischenrunde Gruppe DD",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/1",
+        "away": "Spiel um Platz 11",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/2",
+        "away": "Spiel um Platz 9",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/3",
+        "away": "Spiel um Platz 7",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "6/1",
+        "away": "Spiel um Platz 5",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "6/2",
+        "away": "Spiel um Platz 3",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "6/3",
+        "away": "Spiel um Platz 1",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      }
+    ],
+    "u10-lola2": [
+      {
+        "date": "",
+        "home": "1/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "",
+        "away": ":",
+        "scoreHome": null,
+        "scoreAway": null,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/2",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/2",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3/2",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/2",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/2",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/1",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/2",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/1",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/2",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3/1",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3/2",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/1",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/2",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/1",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/2",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/2",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/2",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3/2",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/2",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/1",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/2",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/2",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3/2",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/1",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/2",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/1",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/2",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/3",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/2",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/3",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3/3",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/3",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/2",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/3",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "6/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "6/2",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "7/1",
+        "away": "Vorrunde Gruppe A",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "7/2",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "7/3",
+        "away": "Vorrunde Gruppe B",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/1",
+        "away": "Zwischenrunde Gruppe AA",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/2",
+        "away": "Zwischenrunde Gruppe BB",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/3",
+        "away": "Zwischenrunde Gruppe CC",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/1",
+        "away": "Zwischenrunde Gruppe DD",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/2",
+        "away": "Zwischenrunde Gruppe AA",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/3",
+        "away": "Zwischenrunde Gruppe BB",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3/1",
+        "away": "Zwischenrunde Gruppe CC",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3/2",
+        "away": "Zwischenrunde Gruppe DD",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3/3",
+        "away": "Zwischenrunde Gruppe AA",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/1",
+        "away": "Zwischenrunde Gruppe BB",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/2",
+        "away": "Zwischenrunde Gruppe CC",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/3",
+        "away": "Zwischenrunde Gruppe DD",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/1",
+        "away": "Spiel um Platz 11",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/2",
+        "away": "Spiel um Platz 9",
+        "scoreHome": 3,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/3",
+        "away": "Spiel um Platz 7",
+        "scoreHome": 2,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "6/1",
+        "away": "Spiel um Platz 5",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "6/2",
+        "away": "Spiel um Platz 3",
+        "scoreHome": 0,
+        "scoreAway": 3,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "6/3",
+        "away": "Spiel um Platz 1",
+        "scoreHome": 1,
+        "scoreAway": 2,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      }
+    ],
+    "u10-kh": [],
+    "u8-lola": [
+      {
+        "date": "",
+        "home": "1/1",
+        "away": "Landesmeisterschaft U8",
+        "scoreHome": 0,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "",
+        "away": ":",
+        "scoreHome": null,
+        "scoreAway": null,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/2",
+        "away": "Landesmeisterschaft U8",
+        "scoreHome": 1,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/1",
+        "away": "Landesmeisterschaft U8",
+        "scoreHome": 1,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/2",
+        "away": "Landesmeisterschaft U8",
+        "scoreHome": 5,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3/1",
+        "away": "Landesmeisterschaft U8",
+        "scoreHome": 1,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3/2",
+        "away": "Landesmeisterschaft U8",
+        "scoreHome": 1,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/1",
+        "away": "Landesmeisterschaft U8",
+        "scoreHome": 0,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/2",
+        "away": "Landesmeisterschaft U8",
+        "scoreHome": 1,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/1",
+        "away": "Landesmeisterschaft U8",
+        "scoreHome": 1,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/2",
+        "away": "Landesmeisterschaft U8",
+        "scoreHome": 0,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/1",
+        "away": "Landesmeisterschaft U8",
+        "scoreHome": 1,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "1/2",
+        "away": "Landesmeisterschaft U8",
+        "scoreHome": 0,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/1",
+        "away": "Landesmeisterschaft U8",
+        "scoreHome": 0,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/2",
+        "away": "Landesmeisterschaft U8",
+        "scoreHome": 0,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "3/2",
+        "away": "Landesmeisterschaft U8",
+        "scoreHome": 0,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/1",
+        "away": "Landesmeisterschaft U8",
+        "scoreHome": 0,
+        "scoreAway": 1,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "2/2",
+        "away": "Landesmeisterschaft U8",
+        "scoreHome": 1,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "4/1",
+        "away": "Landesmeisterschaft U8",
+        "scoreHome": 1,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      },
+      {
+        "date": "",
+        "home": "5/2",
+        "away": "Landesmeisterschaft U8",
+        "scoreHome": 1,
+        "scoreAway": 0,
+        "sets": [],
+        "isOurMatch": true,
+        "isWin": false
+      }
+    ]
+  },
+  "upcoming": [
+    {
+      "date": "31.01.2026",
+      "time": "19:00",
+      "competition": "Deutsche Meisterschaft (Männer)",
+      "venue": "Sporthalle Danziger Str. 40",
+      "location": "Kellinghusen",
+      "ageGroup": "Bundesliga",
+      "teamId": "bl-maenner"
+    },
+    {
+      "date": "28.02.2026",
+      "time": "14:00",
+      "competition": "DM Final 4 (Männer)",
+      "venue": "SCHARRena Stuttgart",
+      "location": "Stuttgart",
+      "ageGroup": "Bundesliga",
+      "teamId": "bl-maenner"
+    },
+    {
+      "date": "31.01.2026",
+      "time": "10:30",
+      "competition": "Norddeutsche Meisterschaft (männl. U16)",
+      "venue": "Lüßwaldhalle",
+      "location": "Südheide OT Unterlüß",
+      "ageGroup": "U16",
+      "teamId": "u16-m"
+    },
+    {
+      "date": "31.01.2026",
+      "time": "10:00",
+      "competition": "Norddeutsche Meisterschaft Nord (weibl. U16)",
+      "venue": "Sporthalle Löwitz-Quartier",
+      "location": "Leipzig",
+      "ageGroup": "U16",
+      "teamId": "u16-w"
+    },
+    {
+      "date": "07.02.2026",
+      "time": "11:00",
+      "competition": "Norddeutsche Meisterschaft (männl. U14)",
+      "venue": "Sporthalle Finnische Allee",
+      "location": "Hohenlockstedt",
+      "ageGroup": "U14",
+      "teamId": "u14-m"
+    },
+    {
+      "date": "08.02.2026",
+      "time": "11:00",
+      "competition": "Norddeutsche Meisterschaft (männl. U14) — Endrunde",
+      "venue": "Sporthalle Finnische Allee",
+      "location": "Hohenlockstedt",
+      "ageGroup": "U14",
+      "teamId": "u14-m"
+    },
+    {
+      "date": "07.02.2026",
+      "time": "11:00",
+      "competition": "Norddeutsche Meisterschaft Nord (weibl. U14)",
+      "venue": "Sporthalle Ahlerstedt",
+      "location": "Ahlerstedt",
+      "ageGroup": "U14",
+      "teamId": "u14-w"
+    },
+    {
+      "date": "08.02.2026",
+      "time": "13:00",
+      "competition": "Norddeutsche Meisterschaft Nord (weibl. U14) — Endrunde",
+      "venue": "Sporthalle Ahlerstedt",
+      "location": "Ahlerstedt",
+      "ageGroup": "U14",
+      "teamId": "u14-w"
+    },
+    {
+      "date": "07.02.2026",
+      "time": "10:00",
+      "competition": "Norddeutsche Meisterschaft Nord (weibl. U18)",
+      "venue": "Sporthalle Oldendorf",
+      "location": "Oldendorf",
+      "ageGroup": "U18",
+      "teamId": "u18-w"
+    },
+    {
+      "date": "07.03.2026",
+      "time": "11:00",
+      "competition": "Landesmeisterschaft SH (U10 mixed)",
+      "venue": "Sporthalle Finnische Allee",
+      "location": "Hohenlockstedt",
+      "ageGroup": "U10",
+      "teamId": "u10-lola"
+    },
+    {
+      "date": "14.03.2026",
+      "time": "09:00",
+      "competition": "Deutsche Meisterschaft (männl. U14) — Vorrunde",
+      "venue": "Hegelsporthalle",
+      "location": "Magdeburg",
+      "ageGroup": "U14",
+      "teamId": "u14-m"
+    },
+    {
+      "date": "15.03.2026",
+      "time": "09:00",
+      "competition": "Deutsche Meisterschaft (männl. U14) — Endrunde",
+      "venue": "Hegelsporthalle",
+      "location": "Magdeburg",
+      "ageGroup": "U14",
+      "teamId": "u14-m"
+    },
+    {
+      "date": "14.03.2026",
+      "time": "09:00",
+      "competition": "Deutsche Meisterschaft (weibl. U14) — Vorrunde",
+      "venue": "Sporthalle Porta-Coeli-Schule",
+      "location": "Düdenbüttel",
+      "ageGroup": "U14",
+      "teamId": "u14-w"
+    },
+    {
+      "date": "15.03.2026",
+      "time": "09:00",
+      "competition": "Deutsche Meisterschaft (weibl. U14) — Endrunde",
+      "venue": "Sporthalle Porta-Coeli-Schule",
+      "location": "Düdenbüttel",
+      "ageGroup": "U14",
+      "teamId": "u14-w"
+    },
+    {
+      "date": "28.03.2026",
+      "time": "09:00",
+      "competition": "Deutsche Meisterschaft (männl. U16)",
+      "venue": "Paralympische Sporthalle",
+      "location": "Leipzig",
+      "ageGroup": "U16",
+      "teamId": "u16-m"
+    },
+    {
+      "date": "28.03.2026",
+      "time": "09:00",
+      "competition": "Deutsche Meisterschaft (weibl. U16)",
+      "venue": "Aschingerhalle",
+      "location": "Bretten",
+      "ageGroup": "U16",
+      "teamId": "u16-w"
+    },
+    {
+      "date": "11.04.2026",
+      "time": "10:00",
+      "competition": "Deutsche Meisterschaft (männl. U12)",
+      "venue": "Egidius Braun Sportschule",
+      "location": "Leipzig",
+      "ageGroup": "U12",
+      "teamId": "u12-m"
+    },
+    {
+      "date": "11.04.2026",
+      "time": "10:00",
+      "competition": "Deutsche Meisterschaft (weibl. U12)",
+      "venue": "Egidius Braun Sportschule",
+      "location": "Leipzig",
+      "ageGroup": "U12",
+      "teamId": "u12-w"
+    }
+  ],
+  "notices": [
+    "U18 männlich: Keine verwertbaren Live-Daten erkannt",
+    "U18 weiblich: Keine verwertbaren Live-Daten erkannt",
+    "U16 weiblich: Keine verwertbaren Live-Daten erkannt",
+    "U14 weiblich: Keine verwertbaren Live-Daten erkannt",
+    "U12 weiblich: Keine verwertbaren Live-Daten erkannt",
+    "U10 mixed (VfL Kellinghusen): Keine verwertbaren Live-Daten erkannt"
+  ]
+}
