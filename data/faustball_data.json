@@ -4,7 +4,7 @@
     "description": "Mobile Faustball-App mit automatischem JSON-Update",
     "themeColor": "#1a7a4a"
   },
-  "generated_at": "2026-04-15T08:26:35.025665+02:00",
+  "generated_at": "2026-04-15T08:37:36.047027+02:00",
   "generated_by": "scripts/update_faustball_data.py",
   "source_status": {
     "mode": "live_with_fallback",
