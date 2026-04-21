@@ -4,12 +4,12 @@
     "description": "Mobile Faustball-App mit automatischem JSON-Update",
     "themeColor": "#1a7a4a"
   },
-  "generated_at": "2026-04-21T07:48:38.570403+02:00",
+  "generated_at": "2026-04-21T07:59:28.343938+02:00",
   "generated_by": "scripts/update_faustball_data.py",
   "source_status": {
     "mode": "live_with_fallback",
     "live_ok": true,
-    "message": "7 von 13 Team-Bereichen konnten live oder halb-live aktualisiert werden. Nicht erkannte Bereiche bleiben auf dem letzten Stand stehen."
+    "message": "6 von 13 Team-Bereichen konnten live oder halb-live aktualisiert werden. Nicht erkannte Bereiche bleiben auf dem letzten Stand stehen."
   },
   "teams": [
     {
@@ -3299,6 +3299,7 @@
     }
   ],
   "notices": [
+    "1. Bundesliga Nord: Timeout: Locator.inner_text: Timeout 5000ms exceeded.\nCall log:\n  - waiting for locator(\"body\")\n",
     "U18 männlich: Keine verwertbaren Live-Daten erkannt",
     "U18 weiblich: Keine verwertbaren Live-Daten erkannt",
     "U16 weiblich: Keine verwertbaren Live-Daten erkannt",
