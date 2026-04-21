@@ -4,12 +4,12 @@
     "description": "Mobile Faustball-App mit automatischem JSON-Update",
     "themeColor": "#1a7a4a"
   },
-  "generated_at": "2026-04-21T22:18:36.793570+02:00",
+  "generated_at": "2026-04-21T22:28:38.060758+02:00",
   "generated_by": "scripts/update_faustball_data.py",
   "source_status": {
     "mode": "live_with_fallback",
     "live_ok": true,
-    "message": "4 von 13 Team-Bereichen konnten live oder halb-live aktualisiert werden. Nicht erkannte Bereiche bleiben auf dem letzten Stand stehen."
+    "message": "7 von 13 Team-Bereichen konnten live oder halb-live aktualisiert werden. Nicht erkannte Bereiche bleiben auf dem letzten Stand stehen."
   },
   "teams": [
     {
@@ -3303,10 +3303,7 @@
     "U18 weiblich: Keine verwertbaren Live-Daten erkannt",
     "U16 weiblich: Keine verwertbaren Live-Daten erkannt",
     "U14 weiblich: Keine verwertbaren Live-Daten erkannt",
-    "U12 männlich: Timeout: Locator.inner_text: Timeout 5000ms exceeded.\nCall log:\n  - waiting for locator(\"body\")\n",
     "U12 weiblich: Keine verwertbaren Live-Daten erkannt",
-    "U10 mixed (TSV LoLa): Timeout: Locator.inner_text: Timeout 5000ms exceeded.\nCall log:\n  - waiting for locator(\"body\")\n",
-    "U10 mixed (TSV LoLa 2): Timeout: Locator.inner_text: Timeout 5000ms exceeded.\nCall log:\n  - waiting for locator(\"body\")\n",
     "U10 mixed (VfL Kellinghusen): Keine verwertbaren Live-Daten erkannt"
   ]
 }
