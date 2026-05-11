@@ -4,12 +4,12 @@
     "description": "Mobile Faustball-App mit automatischem JSON-Update",
     "themeColor": "#1a7a4a"
   },
-  "generated_at": "2026-05-11T05:57:41.060155+02:00",
+  "generated_at": "2026-05-11T06:09:08.203337+02:00",
   "generated_by": "scripts/update_faustball_data.py",
   "source_status": {
     "mode": "live_with_fallback",
     "live_ok": true,
-    "message": "7 von 13 Team-Bereichen konnten live oder halb-live aktualisiert werden. Nicht erkannte Bereiche bleiben auf dem letzten Stand stehen."
+    "message": "6 von 13 Team-Bereichen konnten live oder halb-live aktualisiert werden. Nicht erkannte Bereiche bleiben auf dem letzten Stand stehen."
   },
   "teams": [
     {
@@ -3304,6 +3304,7 @@
     "U16 weiblich: Keine verwertbaren Live-Daten erkannt",
     "U14 weiblich: Keine verwertbaren Live-Daten erkannt",
     "U12 weiblich: Keine verwertbaren Live-Daten erkannt",
+    "U10 mixed (TSV LoLa): Timeout: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.faustball.com/#/contest/8428\", waiting until \"networkidle\"\n",
     "U10 mixed (VfL Kellinghusen): Keine verwertbaren Live-Daten erkannt"
   ]
 }
