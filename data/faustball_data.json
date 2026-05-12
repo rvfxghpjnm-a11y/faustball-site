@@ -4,7 +4,7 @@
     "description": "Mobile Faustball-App mit automatischem JSON-Update",
     "themeColor": "#1a7a4a"
   },
-  "generated_at": "2026-05-12T22:49:44.022540+02:00",
+  "generated_at": "2026-05-12T23:02:41.315164+02:00",
   "generated_by": "scripts/update_faustball_data.py",
   "source_status": {
     "mode": "live_with_fallback",
@@ -3300,7 +3300,7 @@
   ],
   "notices": [
     "U18 männlich: Keine verwertbaren Live-Daten erkannt",
-    "U18 weiblich: Keine verwertbaren Live-Daten erkannt",
+    "U18 weiblich: Timeout: Locator.inner_text: Timeout 5000ms exceeded.\nCall log:\n  - waiting for locator(\"body\")\n",
     "U16 weiblich: Keine verwertbaren Live-Daten erkannt",
     "U14 weiblich: Keine verwertbaren Live-Daten erkannt",
     "U12 weiblich: Keine verwertbaren Live-Daten erkannt",
